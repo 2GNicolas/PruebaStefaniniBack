@@ -1,0 +1,8 @@
+com\Stefanini\group\prueba_api_rest\Entity\Cliente.class
+com\Stefanini\group\prueba_api_rest\configuraciones\WebCors$1.class
+com\Stefanini\group\prueba_api_rest\PruebaApiRestApplication.class
+com\Stefanini\group\prueba_api_rest\configuraciones\WebCors.class
+com\Stefanini\group\prueba_api_rest\service\clienteServicio.class
+com\Stefanini\group\prueba_api_rest\model\clienteDao.class
+com\Stefanini\group\prueba_api_rest\service\ICliente.class
+com\Stefanini\group\prueba_api_rest\controller\clienteController.class
